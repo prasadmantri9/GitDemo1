@@ -10,6 +10,8 @@ public class FirstTest {
 	public void FirstTest() {
 	    assertTrue(true);
 	    System.out.println("Lali");
+	    System.out.println("Learning Git Part 1");
+	    System.out.println("Learning Git Part 2");
 	  }
 
 }
