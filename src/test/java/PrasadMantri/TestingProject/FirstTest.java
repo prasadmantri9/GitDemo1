@@ -12,6 +12,10 @@ public class FirstTest {
 	    System.out.println("Lali");
 	    System.out.println("Learning Git Part 1");
 	    System.out.println("Learning Git Part 2");
+	    
+	    // Asian
+	    System.out.println("Learning Git Part 3");
+	    System.out.println("Learning Git Part 4");
 	  }
 
 }
