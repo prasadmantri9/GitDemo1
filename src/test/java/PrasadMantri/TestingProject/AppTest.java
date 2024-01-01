@@ -29,4 +29,16 @@ public class AppTest {
     System.out.println("Branching Git Part 3");
     System.out.println("Branching Git Part 4");
   }
+  
+  @Test
+  public void shouldAnswerWithTrue2() {
+    assertTrue(true);
+    System.out.println("Lali");
+    System.out.println("Branching Part 1");
+    System.out.println("Branching Git Part 2");
+    
+    // Asian
+    System.out.println("Branching Git Part 3");
+    System.out.println("Branching Git Part 4");
+  }
 }
